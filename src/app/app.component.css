@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+}
+
+.content {
+  background-color: rgb(255, 255, 200);
+}
+
+.login-box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px solid black;
+}
+
+.clearfix {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.clear-input {
+  margin-left: -40px;
+  z-index: 100;
+}
